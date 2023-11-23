@@ -1,9 +1,9 @@
 ### Hiya there I'm Alexandre 👋
 
-- 🔭 I've worked with IT for about 30+ years now. I started my carrer and worked as a developer for about 15yrs using languages some may remember others not e.g Fortran, Pascal, C, C++, Java, Javascript, DHTML, Visual Basic, C# and the list goes on :-) I've worked as an Architect for the last 12 years and not coding as much as I could before
+- 🔭 I work with IT for about 35+ years and counting. I started my carrer as a developer coding on languages some may remember others not e.g Fortran, Pascal, C, C++, Java, Javascript, DHTML, Visual Basic, C#, CSS, Python and the list goes on. Since 2000's as Architect not coding as much as I could before
 - 🌱 However it hasn't stopped me to continue keeping an eye on the latest developments in the area, learning and making some code
-- 🔭 I'm currently working on thinking what to build next that can help and positively impact on others using code
-- 💬 Ask me about working in tech, digital transformation, agility, leadership, learning, agile architecture, coaching
+- 🔭 Exploring Generative AI to solve use-cases such as Enterprise Architecture
+- 💬 Ask me about working in tech, enterprise architecture, digital transformation, agility, leadership, learning, coaching, AI 
 - 📫 How to reach me avfranco@hotmail.com
 - ⚡ Fun fact: I love stay with my family, friends, have a braziian barbecue and go running.
 
